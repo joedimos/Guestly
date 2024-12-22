@@ -142,12 +142,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Contact
-
-For support or inquiries, contact us at:
-- **Email**: support@guestly.com
-- **Twitter**: [@guestlyapp](https://twitter.com/guestlyapp)
-
----
-
 Happy reviewing! 🎉
